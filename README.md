@@ -3,18 +3,16 @@
 </p>
 
 <p align="center">
-  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=FF3E00&labelColor=222222" />
-     
-   <img alt="Stars" src="https://img.shields.io/github/stars/devgabrieldejesus/svelte-typescript-starter?color=FF3E00&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/svelte-typescript-starter?color=FF3E00&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Forks" src="https://img.shields.io/github/forks/devgabrieldejesus/svelte-typescript-starter?color=FF3E00&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/svelte-typescript-starter?color=FF3E00&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Issues" src="https://img.shields.io/github/issues/devgabrieldejesus/svelte-typescript-starter?color=FF3E00&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/svelte-typescript-starter?color=FF3E00&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="GitHub license" src="https://img.shields.io/github/license/devgabrieldejesus/svelte-typescript-starter?color=FF3E00&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/svelte-typescript-starter?color=FF3E00&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-  <a href="https://github.com/devgabrieldejesus">
-    <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=FF3E00&labelColor=222222" />
+  <a href="https://github.com/gabrieldejesus">
+    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=FF3E00&labelColor=222222" />
   </a>
 </p>
 
