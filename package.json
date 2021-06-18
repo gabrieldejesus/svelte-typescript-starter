@@ -1,0 +1,38 @@
+{
+  "name": "typescript-svelte-starter",
+  "version": "1.0.0",
+  "description": "TypeScript starter for Svelte that includes all you need to build amazing apps",
+  "author": "Gabriel de Jesus <devgabrieldejesus@gmail.com> (@gabrieldejesus)",
+  "license": "MIT",
+  "private": true,
+  "keywords": [
+    "svelte",
+    "starter",
+    "typescript"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public --no-clear"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@rollup/plugin-typescript": "^8.2.1",
+    "@tsconfig/svelte": "^2.0.1",
+    "rollup": "^2.3.4",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-svelte": "^7.0.0",
+    "rollup-plugin-terser": "^7.0.0",
+    "svelte": "^3.0.0",
+    "svelte-check": "^2.1.0",
+    "svelte-preprocess": "^4.7.3",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "@pyoner/svelte-ts-preprocess": "^1.3.0",
+    "sirv-cli": "^1.0.0"
+  }
+}
